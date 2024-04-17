@@ -72,7 +72,8 @@ sequência de DNA para análise. Sua tarefa é desenvolver um programa que ident
 todos os "motivos genéticos" presentes nessa sequência de DNA. Um "motivo genético" é
 uma sequência de DNA que tem um significado funcional ou estrutural importante, como um
 gene codificador de uma proteína específica.
-#Desafio:
+
+# Desafio:
 Desenvolver um programa em C que seja capaz de identificar todos os "motivos genéticos"
 presentes em uma sequência de DNA fornecida. Para isso, você precisará implementar as
 seguintes estruturas de dados:
@@ -85,7 +86,7 @@ percorre em busca de "motivos genéticos".
 Vetor: Utilize um vetor para armazenar os diferentes nucleotídeos que compõem a
 sequência de DNA.
 
-#Algoritmo:
+# Algoritmo:
 1. Carregar a sequência de DNA fornecida em um vetor.
 2. Percorrer o vetor de DNA e usar uma pilha para armazenar as subsequências de
 DNA à medida que você as encontra.
